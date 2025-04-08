@@ -1,11 +1,17 @@
 ## Hi there 👋
 
 🔬 Biologist, with a Master's in Molecular Biology - UFMG
+
 🎓 PhD in Bioinformatics - UFMG
+
 🧬 I research human genetic diseases, with a focus on inherited disorders
+
 💻 I work with data analysis, R, Python, shell scripting, and public databases like COSMIC and dbSNP
+
 🧠 Naturally curious, passionate about science and discovering patterns in the genome
+
 🌎 Advocate for open, collaborative, and accessible science
+
 👟 In my free time, I'm a speed skater and outdoor sports enthusiast
 
 Here you’ll find some projects, scripts, and experiments that are part of my journey in bioinformatics.
